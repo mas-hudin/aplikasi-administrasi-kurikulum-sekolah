@@ -1,4 +1,4 @@
-const CACHE_NAME = 'SIREKUL-v1';
+const CACHE_NAME = 'E-KURIKULUM-v1';
 const ASSETS_TO_CACHE = [
   'index.html',
   'manifest.json',
